@@ -115,6 +115,15 @@
           ]
         }
       ]
+    },
+    {
+      "name": "REEEETest",
+      "tags": "",
+      "type": "Sprite",
+      "updateIfNotVisible": false,
+      "variables": [],
+      "behaviors": [],
+      "animations": []
     }
   ],
   "events": [
